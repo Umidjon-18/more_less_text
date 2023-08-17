@@ -13,10 +13,6 @@ and the Flutter guide for
 
 Easily collapce and expand texts any time yo want.
 
-## Features
-
-TODO: List what your package can do. Maybe include images, gifs, or videos.
-
 
 ## Usage
 
