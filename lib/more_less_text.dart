@@ -5,20 +5,6 @@ import 'package:flutter/material.dart';
 
 import 'scale_animation.dart';
 
-class MyWidget extends StatelessWidget {
-  const MyWidget({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return MoreLessText(
-      text: "This is a new package for using text easily, you can collapce and expand texts",
-      moreKeyWord: "...more",
-      lessKeyWord: "less",
-      lessLength: 30,
-    );
-  }
-}
-
 class MoreLessText extends StatefulWidget {
   const MoreLessText({
     super.key,
